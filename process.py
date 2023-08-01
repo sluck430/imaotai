@@ -15,7 +15,10 @@ AES_KEY = 'qbhajinldepmucsonaaaccgypwuvcjaa'
 AES_IV = '2018534749963515'
 SALT = '2af72f100c356273d46284f6fd1dfc08'
 
-AMAP_KEY = '9449339b6c4aee04d69481e6e6c84a84'
+# 高德地图
+# AMAP_KEY = '9449339b6c4aee04d69481e6e6c84a84'
+AMAP_KEY = 'b84bd4a4d00fad2d147f40d2dea7deb3'
+
 
 CURRENT_TIME = str(int(time.time() * 1000))
 headers = {}
